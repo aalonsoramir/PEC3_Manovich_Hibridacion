@@ -22,3 +22,5 @@ A continuación analizaré dos casos en los que se produce el concepto de hibrid
 
 Microsoft Teams es una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos (incluida la colaboración en archivos) e integración de aplicaciones. El servicio se integra con el paquete de productividad de Office por suscripción y presenta extensiones que pueden integrarse con productos que no son de Microsoft.
 
+HIBRIDACIÓN SEGÚN MANOVICH APLICADA A TEAMS
+
