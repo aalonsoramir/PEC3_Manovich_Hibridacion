@@ -14,4 +14,4 @@ Gracias a esta hibridación, hoy encontramos productos como aplicaciones móvile
 A continuación analizaré dos casos en los que se produce el concepto de hibridación propuesto por Lev Manovich:
 
 # CASO 1: TEAMS
-![C:\Users\PC\OneDrive\Документы\Formación\UOC - GRADO DE MULTIMEDIA\Trabajos UOC\Cultura Digital\PEC 3]
+![C:\Users\PC\OneDrive\Документы\Formación\UOC - GRADO DE MULTIMEDIA\Trabajos UOC\Cultura Digital\PEC 3\teams2-1280x720]
