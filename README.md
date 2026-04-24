@@ -24,3 +24,22 @@ Microsoft Teams es una plataforma unificada de comunicación y colaboración que
 
 HIBRIDACIÓN SEGÚN MANOVICH APLICADA A TEAMS
 
+Para entender Microsoft Teams desde la perspectiva de Lev Manovich, debemos alejarnos de la idea de que es una simple "herramienta de comunicación". Según Manovich en su obra Software Takes Command , estamos viviendo en la era del metamedio de software . En este contexto, Teams no es una suma de herramientas, sino un híbrido donde las propiedades de distintos medios se fusionan para crear una experiencia cualitativamente nueva.
+
+1. La disolución de las fronteras de los medios
+   
+En el pasado, el vídeo, el texto y el cálculo (hojas de cálculo) residían en aplicaciones separadas con lógicas distintas. Manovich argumenta que la hibridación ocurre cuando las técnicas de un medio (por ejemplo, el "cortar y pegar" del texto) se infiltran en otros (como la edición de video o datos).
+
+En Teams, esta remezclabilidad profunda es evidente: una reunión grabada ya no es solo un archivo de video, sino un objeto híbrido que permite búsquedas de texto en su transcripción, indexación de momentos clave y edición colaborativa en tiempo real. Aquí, el vídeo ha adquirido las propiedades del texto y la base de datos.
+
+2. El software como arquitectura de trabajo
+   
+Manovich sostiene que el software no es una capa invisible, sino una estructura que moldea nuestra cultura. Teams ejemplifica esto al hibridar la comunicación asíncrona (el chat y los canales) con la sincrónica (videollamadas).
+
+Esta fusión altera nuestra percepción del "espacio de oficina". Al integrar aplicaciones de terceros (como Trello o Adobe) dentro de su propia interfaz, Teams se convierte en un entorno sintético . No saltamos de un medio a otro; habitamos un metamedio donde la distinción entre "hablar sobre el trabajo" y "producir el trabajo" ha desaparecido por completo.
+
+3. La interfaz y la manipulación de datos
+   
+Finalmente, la hibridación según Manovich implica que el software dota a los medios de "nuevas dimensiones". En Teams, la implementación de IA y de "modos de conjunto" (donde la silueta del usuario es extraída de su entorno físico) demuestra cómo la visión artificial se hibrida con la videollamada tradicional.
+
+Ya no vemos un flujo de video puro, sino una construcción de datos en tiempo real. Estamos ante una interfaz que no solo transmite información, sino que la procesa y la redefine según la lógica del software, cumpliendo así la premisa de Manovich: el software ha tomado el mando de los medios.
