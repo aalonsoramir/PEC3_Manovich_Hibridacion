@@ -10,3 +10,7 @@ La hibridación en los nuevos medios es un concepto que explica cómo, en la era
 Lev Manovich, señala que la hibridación no es simplemente una mezcla superficial, sino un proceso profundo y estructural en el que diferentes medios se fusionan a nivel técnico, estético y funcional. El resultado no es la suma de partes independientes, sino un medio nuevo, donde los elementos originales dejan de actuar por separado.
 
 Gracias a esta hibridación, hoy encontramos productos como aplicaciones móviles que combinan geolocalización, narrativa y bases de datos; videojuegos que integran actividad física del mundo real; o plataformas que mezclan redes sociales, vídeo, música y algoritmos personalizados.
+
+A continuación analizaré dos casos en los que se produce el concepto de hibridación propuesto por Lev Manovich:
+
+# CASO 1: TEAMS
