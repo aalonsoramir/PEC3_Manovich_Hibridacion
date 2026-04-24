@@ -15,4 +15,6 @@ A continuación analizaré dos casos en los que se produce el concepto de hibrid
 
 # CASO 1: TEAMS
 <img width="1280" height="720" alt="teams2-1280x720" src="https://github.com/user-attachments/assets/95b47d70-dee0-4e2c-a4de-851303acd001" />
+# ¿Que es TEAMS?
+
 
