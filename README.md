@@ -5,6 +5,7 @@ Asignatura: Cultura Digital
 Año: 2026
 
 # INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?
+
 La hibridación en los nuevos medios es un concepto que explica cómo, en la era digital, distintos medios, tecnologías y prácticas culturales se combinan para crear formas de comunicación completamente nuevas. A diferencia de los medios tradicionales, los nuevos medios integran todos estos lenguajes en un mismo entorno interactivo.
 
 Lev Manovich, señala que la hibridación no es simplemente una mezcla superficial, sino un proceso profundo y estructural en el que diferentes medios se fusionan a nivel técnico, estético y funcional. El resultado no es la suma de partes independientes, sino un medio nuevo, donde los elementos originales dejan de actuar por separado.
@@ -14,7 +15,10 @@ Gracias a esta hibridación, hoy encontramos productos como aplicaciones móvile
 A continuación analizaré dos casos en los que se produce el concepto de hibridación propuesto por Lev Manovich:
 
 # CASO 1: TEAMS
+
 <img width="1280" height="720" alt="teams2-1280x720" src="https://github.com/user-attachments/assets/95b47d70-dee0-4e2c-a4de-851303acd001" />
+
 # ¿Que es TEAMS?
+
 Microsoft Teams es una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos (incluida la colaboración en archivos) e integración de aplicaciones. El servicio se integra con el paquete de productividad de Office por suscripción y presenta extensiones que pueden integrarse con productos que no son de Microsoft.
 
