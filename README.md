@@ -69,3 +69,35 @@ Es una herramienta que usa la cámara de tu celular para proyectar una imagen di
 
 HIBRIDACIÓN SEGÚN MANOVICH APLICADA A AMAZON VIEW
 
+La hibridación según Manovich aplicada a Amazon View, no es solo poner una imagen sobre otra (como un collage), sino crear una nueva gramática visual donde las propiedades de los medios digitales y el mundo físico se entrelazan para generar una experiencia distinta.
+
+Es una nueva forma de realidad donde los algoritmos y los átomos se fusionan para que puedas tomar decisiones, es la tecnología dejando de ser una herramienta externa para convertirse en una capa más de tu percepción visual.
+
+El cómo se aplica la hibridación según Lev Manovich a Amazon View, tiene tres puntos destacables:
+
+1. El "Software como Cimiento"
+   
+Para Manovich, el software es lo que permite que diferentes medios hablen el mismo idioma. 
+
+En Amazon View, el software toma metadatos 3D (el mueble digital) y los traduce al lenguaje de la óptica física (tu cámara). No están solo coexistiendo; el software calcula sombras y perspectivas para que el objeto "viva" en tu sala.
+
+3. La Superación de la Multimedia
+   
+Manovich dice que la "multimedia" es vieja escuela (solo ver texto y video por separado). La hibridación es cuando las interfaces se vuelven invisibles:
+
+En Amazon View: Tu habitación (mundo físico) deja de ser solo un fondo; se convierte en la interfaz. 
+
+El mueble virtual "aprende" del espacio real, detecta el suelo y la luz, creando un entorno híbrido donde ya no distingues qué medio es cuál.
+
+3. La "Deep Remixability" (Remezclabilidad Profunda)
+   
+Estás mezclando la lógica de un videojuego (manipular objetos 3D) con la lógica del comercio tradicional (ver antes de comprar) y la lógica de la fotografía.
+
+El resultado es un híbrido que te permite interactuar con la realidad de una forma que antes era imposible: puedes "tocar" y "mover" algo que no existe físicamente, pero que tiene peso visual real.
+
+# CONCLUSIONES
+
+La conclusión principal es que Amazon View no es una foto; es un híbrido. Según Manovich, hemos pasado de "mirar una pantalla" a que la pantalla use nuestra realidad como lienzo. El objeto digital tiene "comportamiento" (sombras, escala, perspectiva), lo que lo hace sentir real ante nuestros ojos humanos.
+
+Amazon View es el ejemplo perfecto de cómo el código puede "engañar" positivamente a nuestra percepción.
+
