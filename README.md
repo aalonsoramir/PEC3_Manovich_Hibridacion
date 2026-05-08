@@ -60,4 +60,5 @@ En otras palabras, Teams es un ejemplo perfecto de cómo los nuevos medios ya no
 
 # CASO 2: AMAZON VIEW
 
+<img width="600" height="315" alt="amazon_logo _CB633267048_" src="https://github.com/user-attachments/assets/a79e69f1-4b29-414d-b23b-9eace5982878" />
 
