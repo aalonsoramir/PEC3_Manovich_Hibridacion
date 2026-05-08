@@ -44,15 +44,15 @@ Finalmente, la hibridación según Manovich implica que el software dota a los m
 
 Ya no vemos un flujo de video puro, sino una construcción de datos en tiempo real. Estamos ante una interfaz que no solo transmite información, sino que la procesa y la redefine según la lógica del software, cumpliendo así la premisa de Manovich: el software ha tomado el mando de los medios.
 
-#CONCLUSIONES
+# CONCLUSIONES
 
 Según la teoría de Manovich, Teams es un caso claro de hibridación porque:
 
-Mezcla conversación y programación.
+1. Mezcla conversación y programación.
 
-Fusiona automatización con interacción humana.
+2. Fusiona automatización con interacción humana.
 
-Integra administración y mensajería en un mismo medio.
+3. Integra administración y mensajería en un mismo medio.
 
 Se convierte en un meta-herramienta que produce nuevos medios híbridos.
 
