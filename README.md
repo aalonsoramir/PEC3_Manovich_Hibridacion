@@ -60,3 +60,4 @@ En otras palabras, Teams es un ejemplo perfecto de cómo los nuevos medios ya no
 
 # CASO 2: AMAZON VIEW
 
+
