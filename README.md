@@ -57,3 +57,6 @@ Según la teoría de Manovich, Teams es un caso claro de hibridación porque:
 Se convierte en un meta-herramienta que produce nuevos medios híbridos.
 
 En otras palabras, Teams es un ejemplo perfecto de cómo los nuevos medios ya no pertenecen a un solo lenguaje o dominio, sino que combinan múltiples prácticas mediáticas en una experiencia unificada.
+
+# CASO 2: AMAZON VIEW
+
