@@ -64,3 +64,8 @@ En otras palabras, Teams es un ejemplo perfecto de cómo los nuevos medios ya no
 
 # ¿QUE ES AMAZON VIEW?
 
+Amazon View (o más específicamente, Amazon AR View) es una función de realidad aumentada integrada en la aplicación de compras de Amazon.
+Es una herramienta que usa la cámara de tu celular para proyectar una imagen digital de un producto en tu espacio real. Te permite visualizar muebles, electrodomésticos o decoración a escala real antes de comprarlos.
+
+HIBRIDACIÓN SEGÚN MANOVICH APLICADA A AMAZON VIEW
+
