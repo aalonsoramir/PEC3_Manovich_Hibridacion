@@ -84,13 +84,23 @@ En conclusión, la hibridación en Microsoft Teams demuestra cómo las tecnolog�
 
 # ¿QUE ES AMAZON VIEW?
 
-Amazon View (o más específicamente, Amazon AR View) es una función de realidad aumentada integrada en la aplicación de compras de Amazon.
+Amazon View (o más específicamente, Amazon AR View) es una función de realidad aumentada integrada en la aplicación de compras de Amazon. 
+
+Permite visualizar productos e información de manera interactiva dentro de su plataforma. 
+
+Combina imágenes, videos, recomendaciones y opciones de compra para mejorar la experiencia del usuario y facilitar la navegación y el comercio en línea.
 
 Es una herramienta que usa la cámara de tu smartphone para proyectar una imagen digital de un producto en tu espacio real, te permite visualizar muebles, electrodomésticos o decoración a escala real antes de comprarlos.
 
 HIBRIDACIÓN SEGÚN MANOVICH APLICADA A AMAZON VIEW
 
 La hibridación según Manovich aplicada a Amazon View, no es solo poner una imagen sobre otra (como un collage), sino crear una nueva gramática visual donde las propiedades de los medios digitales y el mundo físico se entrelazan para generar una experiencia distinta.
+
+Según Lev Manovich la hibridación se refleja en Amazon View porque integra diferentes medios y funciones digitales en una sola plataforma. 
+
+Combina texto, imágenes, videos, inteligencia artificial y herramientas de compra para crear una experiencia interactiva y personalizada. 
+
+Además, une el comercio tradicional con el entorno virtual, mostrando cómo las tecnologías digitales convergen y transforman la manera en que las personas consumen e interactúan en línea.
 
 La hibridación en Amazon View ocurre porque diferentes tecnologías, medios y funciones digitales trabajan juntas en una sola plataforma para crear una experiencia más completa e interactiva para el usuario, es una nueva forma de realidad donde los algoritmos y los átomos se fusionan para que puedas tomar decisiones, es la tecnología dejando de ser una herramienta externa para convertirse en una capa más de tu percepción visual.
 
@@ -100,17 +110,17 @@ El cómo se aplica la hibridación según Lev Manovich a Amazon View, tiene tres
    
 Para Manovich, el software es lo que permite que diferentes medios hablen el mismo idioma. 
 
-En Amazon View, el software toma metadatos 3D (el mueble digital) y los traduce al lenguaje de la óptica física (tu cámara). No están solo coexistiendo; el software calcula sombras y perspectivas para que el objeto "viva" en tu sala.
+En Amazon View, el software toma metadatos 3D (el mueble digital) y los traduce al lenguaje de la óptica física (tu cámara), no están solo coexistiendo, el software calcula sombras y perspectivas para que el objeto "viva" en tu espacio físico.
 
-3. La Superación de la Multimedia
+3. La Superación de la Multimedia:
    
-Manovich dice que la "multimedia" es vieja escuela (solo ver texto y video por separado). La hibridación es cuando las interfaces se vuelven invisibles:
+Lev Manovich dice que la "multimedia" es vieja escuela (solo ver texto y video por separado), la hibridación es cuando las interfaces se vuelven invisibles.
 
-En Amazon View: Tu habitación (mundo físico) deja de ser solo un fondo; se convierte en la interfaz. 
+En Amazon View, tu habitación (mundo físico) deja de ser solo un fondo, se convierte en la interfaz. 
 
-El mueble virtual "aprende" del espacio real, detecta el suelo y la luz, creando un entorno híbrido donde ya no distingues qué medio es cuál.
+El mueble virtual "aprende" del espacio real, detecta el suelo y la luz, creando un entorno híbrido donde ya no distingues qué medio es real y cual es virtual.
 
-3. La "Deep Remixability" (Remezclabilidad Profunda)
+3. La "Deep Remixability" (Remezclabilidad Profunda):
    
 Estás mezclando la lógica de un videojuego (manipular objetos 3D) con la lógica del comercio tradicional (ver antes de comprar) y la lógica de la fotografía.
 
@@ -118,7 +128,9 @@ El resultado es un híbrido que te permite interactuar con la realidad de una fo
 
 # CONCLUSIONES
 
-La conclusión principal es que Amazon View no es una foto; es un híbrido. Según Manovich, hemos pasado de "mirar una pantalla" a que la pantalla use nuestra realidad como lienzo. El objeto digital tiene "comportamiento" (sombras, escala, perspectiva), lo que lo hace sentir real ante nuestros ojos humanos.
+La conclusión principal es que Amazon View no es una foto, es un híbrido. Según Lev Manovich, hemos pasado de "mirar una pantalla" a que la pantalla use nuestra realidad como lienzo. 
+
+El objeto digital tiene "comportamiento" (sombras, escala, perspectiva), lo que lo hace sentir real ante nuestros ojos humanos.
 
 Amazon View es el ejemplo perfecto de cómo el código puede "engañar" positivamente a nuestra percepción.
 
