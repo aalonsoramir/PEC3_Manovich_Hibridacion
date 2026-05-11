@@ -48,9 +48,11 @@ Aquí, el vídeo ha adquirido las propiedades del texto y la base de datos.
    
 Manovich sostiene que el software no es una capa invisible, sino una estructura que moldea nuestra cultura. 
 
-Microsoft Teams ejemplifica esto al hibridar la comunicación asíncrona (el chat y los canales) con la sincrónica (videollamadas).
+Microsoft Teams ejemplifica esto al hibridar la comunicación asíncrona (el chat y los canales) con la sincrónica (videollamadas), la hibridación aparece en la mezcla entre comunicación humana y herramientas digitales como reacciones, compartir pantalla y colaboración instantánea.
 
-Esta fusión altera nuestra percepción del "espacio de oficina". 
+La hibridación se aplica porque Microsoft Teams fusiona chat, llamadas y videoconferencias en un solo medio digital, en lugar de usar aplicaciones separadas.
+
+Esta fusión altera nuestra percepción del "espacio de oficina". Combina elementos del entorno físico (reuniones, clases, oficina) con espacios virtuales accesibles desde internet.
 
 Al integrar aplicaciones de terceros (como Trello o Adobe) dentro de su propia interfaz, Microsof Teams se convierte en un entorno sintético . No saltamos de un medio a otro, habitamos un metamedio donde la distinción entre "hablar sobre el trabajo" y "producir el trabajo" ha desaparecido por completo.
 
@@ -83,13 +85,14 @@ En conclusión, la hibridación en Microsoft Teams demuestra cómo las tecnolog�
 # ¿QUE ES AMAZON VIEW?
 
 Amazon View (o más específicamente, Amazon AR View) es una función de realidad aumentada integrada en la aplicación de compras de Amazon.
-Es una herramienta que usa la cámara de tu celular para proyectar una imagen digital de un producto en tu espacio real. Te permite visualizar muebles, electrodomésticos o decoración a escala real antes de comprarlos.
+
+Es una herramienta que usa la cámara de tu smartphone para proyectar una imagen digital de un producto en tu espacio real, te permite visualizar muebles, electrodomésticos o decoración a escala real antes de comprarlos.
 
 HIBRIDACIÓN SEGÚN MANOVICH APLICADA A AMAZON VIEW
 
 La hibridación según Manovich aplicada a Amazon View, no es solo poner una imagen sobre otra (como un collage), sino crear una nueva gramática visual donde las propiedades de los medios digitales y el mundo físico se entrelazan para generar una experiencia distinta.
 
-Es una nueva forma de realidad donde los algoritmos y los átomos se fusionan para que puedas tomar decisiones, es la tecnología dejando de ser una herramienta externa para convertirse en una capa más de tu percepción visual.
+La hibridación en Amazon View ocurre porque diferentes tecnologías, medios y funciones digitales trabajan juntas en una sola plataforma para crear una experiencia más completa e interactiva para el usuario, es una nueva forma de realidad donde los algoritmos y los átomos se fusionan para que puedas tomar decisiones, es la tecnología dejando de ser una herramienta externa para convertirse en una capa más de tu percepción visual.
 
 El cómo se aplica la hibridación según Lev Manovich a Amazon View, tiene tres puntos destacables:
 
