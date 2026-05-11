@@ -64,7 +64,7 @@ Ya no vemos un flujo de video puro, sino una construcción de datos en tiempo re
 
 # CONCLUSIONES
 
-Según la teoría de Manovich, Teams es un caso claro de hibridación porque:
+Según la teoría de Lev Manovich, la aplicación Microsoft Teams es un caso claro de hibridación porque:
 
 1. Mezcla conversación y programación.
 
@@ -74,7 +74,7 @@ Según la teoría de Manovich, Teams es un caso claro de hibridación porque:
 
 Se convierte en un meta-herramienta que produce nuevos medios híbridos.
 
-En otras palabras, Teams es un ejemplo perfecto de cómo los nuevos medios ya no pertenecen a un solo lenguaje o dominio, sino que combinan múltiples prácticas mediáticas en una experiencia unificada.
+En conclusión, la hibridación en Microsoft Teams demuestra cómo las tecnologías digitales ya no funcionan de manera aislada, sino que se mezclan para ofrecer espacios más dinámicos e interactivos, esto refleja la idea de Manovich sobre la convergencia de medios y la transformación de la comunicación en la era digital.
 
 # CASO 2: AMAZON VIEW
 
