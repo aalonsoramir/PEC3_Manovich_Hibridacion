@@ -14,11 +14,11 @@ Gracias a esta hibridación, hoy encontramos productos como aplicaciones móvile
 
 A continuación analizaré dos casos en los que se produce el concepto de hibridación propuesto por Lev Manovich:
 
-# CASO 1: TEAMS
+# CASO 1: MICROSOFT TEAMS
 
 <img width="1280" height="720" alt="teams2-1280x720" src="https://github.com/user-attachments/assets/95b47d70-dee0-4e2c-a4de-851303acd001" />
 
-# ¿Que es TEAMS?
+# ¿Que es MICROSOFT TEAMS?
 
 Microsoft Teams es una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos (incluida la colaboración en archivos) e integración de aplicaciones. El servicio se integra con el paquete de productividad de Office por suscripción y presenta extensiones que pueden integrarse con productos que no son de Microsoft.
 
