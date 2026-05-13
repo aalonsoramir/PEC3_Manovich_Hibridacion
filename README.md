@@ -134,3 +134,5 @@ El objeto digital tiene "comportamiento" (sombras, escala, perspectiva), lo que 
 
 Amazon View es el ejemplo perfecto de cómo el código puede "engañar" positivamente a nuestra percepción.
 
+# BIBLIOGRAFÍA
+
