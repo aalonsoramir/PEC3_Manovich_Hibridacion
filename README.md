@@ -143,6 +143,7 @@ Lev Manovich. (2013). Software Takes Command. New York: Bloomsbury Academic.
 Nuevos Medios. Referencias teóricas sobre convergencia digital, multimedia e interacción entre software y cultura contemporánea.
 
 
+
 Sitio oficial consultado para la descripción de funciones de comunicación, colaboración e integración digital de Microsoft Teams. 
 (https://www.microsoft.com/es-es/microsoft-teams/group-chat-software)
 
