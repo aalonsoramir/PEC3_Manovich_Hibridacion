@@ -137,12 +137,17 @@ Amazon View es el ejemplo perfecto de cómo el código puede "engañar" positiva
 # BIBLIOGRAFÍA Y REFERENCIAS
 
 Lev Manovich. (2001). The Language of New Media. Cambridge, MA: MIT Press.
+
 Lev Manovich. (2013). Software Takes Command. New York: Bloomsbury Academic.
+
 Nuevos Medios. Referencias teóricas sobre convergencia digital, multimedia e interacción entre software y cultura contemporánea.
+
 
 Sitio oficial consultado para la descripción de funciones de comunicación, colaboración e integración digital de Microsoft Teams. 
 (https://www.microsoft.com/es-es/microsoft-teams/group-chat-software?)
+
 Fuente complementaria sobre herramientas colaborativas, inteligencia artificial e integración de software en Teams.
 (https://www.microsoft.com/en-us/microsoft-365/blog/?)
+
 Página oficial sobre la herramienta de realidad aumentada utilizada para visualizar productos en espacios físicos.
 (https://www.amazon.com/products)
