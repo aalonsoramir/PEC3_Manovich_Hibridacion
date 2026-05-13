@@ -6,7 +6,7 @@ Año: 2026
 
 # INTRODUCCIÓN, ¿QUE ES LA HIBRIDACIÓN EN LOS NUEVOS MEDIOS?
 
-La hibridación en los nuevos medios es una idea ampliamente desarrollada por el teórico de los medios Lev Manovich en su obra El lenguaje de los nuevos medios de comunicación.
+La hibridación en los nuevos medios es una idea ampliamente desarrollada por el teórico de los medios Lev Manovich en su obra "El lenguaje de los nuevos medios de comunicación".
 
 Según el teórico Manovich, la hibridación se define como el proceso mediante el cual diferentes medios tradicionales (como por ejemplo texto, fotografía, cine, etc.) y tecnologías digitales se integran dentro de un mismo entorno digital para producir nuevas formas de comunicación y expresión que antes no existían de manera independiente.
 
