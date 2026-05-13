@@ -144,10 +144,10 @@ Nuevos Medios. Referencias teóricas sobre convergencia digital, multimedia e in
 
 
 Sitio oficial consultado para la descripción de funciones de comunicación, colaboración e integración digital de Microsoft Teams. 
-(https://www.microsoft.com/es-es/microsoft-teams/group-chat-software?)
+(https://www.microsoft.com/es-es/microsoft-teams/group-chat-software)
 
 Fuente complementaria sobre herramientas colaborativas, inteligencia artificial e integración de software en Teams.
-(https://www.microsoft.com/en-us/microsoft-365/blog/?)
+(https://www.microsoft.com/en-us/microsoft-365/blog/)
 
 Página oficial sobre la herramienta de realidad aumentada utilizada para visualizar productos en espacios físicos.
 (https://www.amazon.com/products)
